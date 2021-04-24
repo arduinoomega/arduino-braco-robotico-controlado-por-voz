@@ -10,5 +10,5 @@ Aqui neste post optamos pelo controle sem fio via Bluetooth, porém iremos adici
 
 ## Veja o tutorial completo em neste link [Blog-Arduino Ômega](https://blog.arduinoomega.com/braco-robotico-controlado-por-voz/) Blog Arduino Ômega - Braço Robótico controlado por voz
 
-### Tutorial por Alex da Rocha Mattos do <a href="https://www.instagram.com/curtoecircuito/"> Curto e Circuito</a>.
-### curtoeckt@gmail.comcurtoeckt@gmail.com
+### Tutorial por [Sandro Mesquita](https://www.instagram.com/profsandromesquita/).
+
