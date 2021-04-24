@@ -7,3 +7,8 @@ Existem várias formas de controlar um este kit de braço robótico, como por po
 Aqui neste post optamos pelo controle sem fio via Bluetooth, porém iremos adicionar o diferencial de enviar os comandos via voz, ou seja, iremos falar com o celular e este irá enviar via bluetooth para o Arduino Uno as instruções para movimentar o Braço Robótico! Você pode adquirir o Kit completo para montar este tutorial em nossa loja, a Arduino Ômega, é só clicar neste link e adquirir o seu Kit Braço Robótico!
 
 ![Esquema](https://lh4.googleusercontent.com/whRNlrJr0zfd58k9vBm7DGWOjiiYxRcG8tb5Kz8RR6plVxuu4DojpQPmGl2Zd9f6uQrIw16YhrnSdAEay5_-X8CKbptsBSSLxr9-kJ_zA5oUC9T-Jb503CtVkAoyjpx3j5XNGYs)
+
+## Veja o tutorial completo em neste link [Blog-Arduino Ômega](https://blog.arduinoomega.com/braco-robotico-controlado-por-voz/) Blog Arduino Ômega - Braço Robótico controlado por voz
+
+### Tutorial por Alex da Rocha Mattos do <a href="https://www.instagram.com/curtoecircuito/"> Curto e Circuito</a>.
+### curtoeckt@gmail.comcurtoeckt@gmail.com
